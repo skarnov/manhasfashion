@@ -1,0 +1,1 @@
+<span class="simpleCart_total"></span> (<?php echo $this->cart->total_items(); ?> <span id="simpleCart_quantity" class="simpleCart_quantity"></span> items)
